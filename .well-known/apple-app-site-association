@@ -1,8 +1,13 @@
 {
-    "applinks": {
-        "apps": ["XU74X3434S.jp.co.cyberagent.FeedSample0914"]
-    },
-    "appclips": {
-        "apps": ["XU74X3434S.jp.co.cyberagent.FeedSample0914.Clip"]
+  "applinks": {
+    "apps": [],
+    "details": {
+      "VPN42CNA7H.tv.abema.AbemaTV": {
+        "paths": [
+          "NOT /coupon-code/*",
+          "*"
+        ]
+      }
     }
+  }
 }
