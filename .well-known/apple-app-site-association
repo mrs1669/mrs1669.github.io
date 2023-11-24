@@ -1,4 +1,4 @@
-content-type: application/json
+<meta charset="application/json">
 
 {
     "webcredentials": {
