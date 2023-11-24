@@ -1,9 +1,4 @@
----
-layout: null
-title: Your JSON File
-permalink: /your-json-file.json
-content-type: application/json
----
+
 
 {
     "webcredentials": {
