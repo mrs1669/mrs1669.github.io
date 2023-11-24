@@ -1,3 +1,10 @@
+---
+layout: null
+title: Your JSON File
+permalink: /your-json-file.json
+content-type: application/json
+---
+
 {
     "webcredentials": {
         "apps": [ "CYVT5KAB4R.com.en-japan.ambi.develop" ]
