@@ -1,3 +1,5 @@
+content-type: application/json
+
 {
     "webcredentials": {
         "apps": [ "CYVT5KAB4R.com.en-japan.ambi.develop" ]
