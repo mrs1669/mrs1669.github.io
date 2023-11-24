@@ -1,13 +1,5 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": {
-      "VPN42CNA7H.tv.abema.AbemaTV": {
-        "paths": [
-          "NOT /coupon-code/*",
-          "*"
-        ]
-      }
+    "webcredentials": {
+        "apps": [ "CYVT5KAB4R.com.en-japan.ambi.develop" ]
     }
-  }
 }
